@@ -1,9 +1,8 @@
 pluginManagement {
     repositories {
-        gradlePluginPortal()
         google()
         mavenCentral()
-        jcenter()
+        gradlePluginPortal()
     }
 }
 dependencyResolutionManagement {
@@ -11,8 +10,7 @@ dependencyResolutionManagement {
     repositories {
         google()
         mavenCentral()
-        jcenter()
     }
 }
-rootProject.name = "IBM Share Predictor"
+rootProject.name = "Stock Market Price Predictor"
 include ':app'
