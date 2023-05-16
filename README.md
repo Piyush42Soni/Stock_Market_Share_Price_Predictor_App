@@ -2,7 +2,7 @@
 <div align="center">
 <img src="https://th.bing.com/th/id/OIG.KaoRXthw6k2vgT_RVFgi?w=173&h=173&c=6&pcl=1b1a19&r=0&o=5&dpr=1.1&pid=ImgGn" width=250 style="border-radius:50%"/>
   
-  [![Python 3.10](https://img.shields.io/badge/python-3.10-blue.svg)](https://www.python.org/downloads/release/python-3100/)
+  ![Python 3.10](https://img.shields.io/badge/Python-287595.svg?style=for-the-badge&logo=Python&logoColor=white)
   ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
   ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
   ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
