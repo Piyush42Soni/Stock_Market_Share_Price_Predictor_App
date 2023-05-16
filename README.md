@@ -19,4 +19,15 @@ It is an Android app that is made using the latest Jetpack Compose library and u
 - [App Home Page Code](https://github.com/Piyush42Soni/Stock_Market_Share_Price_Predictor_App/blob/master/app/src/main/java/com/example/stockmarketpricepredictor/MainActivity.kt)
 
 ## App UI Design
- 
+
+<div align="center"> 
+ <img src="https://github.com/Piyush42Soni/Stock_Market_Share_Price_Predictor_App/blob/master/AppUIdesign.png" width=250 />
+ <img src="https://github.com/Piyush42Soni/Stock_Market_Share_Price_Predictor_App/blob/master/AppUIdesign2.png" width=250 />
+</div>
+
+## Deep Learning Model Structure
+
+<div align="center"> 
+ <img src="https://github.com/Piyush42Soni/Stock_Market_Share_Price_Predictor_App/blob/master/Model_structure.png" width=250 />
+</div>
+
