@@ -31,3 +31,13 @@ It is an Android app that is made using the latest Jetpack Compose library and u
  <img src="https://github.com/Piyush42Soni/Stock_Market_Share_Price_Predictor_App/blob/master/Model_structure.png" width=250 />
 </div>
 
+## Contributing/Running the project locally
+
+The application can be downloaded from the releases section 
+
+Clone the repository:
+
+```bash
+$ git clone https://github.com/Piyush42Soni/OS_project.git
+```
+From here on you can run, test or update the various models based on the dataset.
